@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="nic">img/nic.bmp</file>
+        <file alias="circle">img/o.bmp</file>
+        <file alias="toc">img/x.bmp</file>
+        <file alias="sCircle">img/osmall.bmp</file>
+        <file alias="sToc">img/xsmall.bmp</file>
+    </qresource>
+</RCC>
